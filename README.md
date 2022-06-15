@@ -10,5 +10,5 @@ A simple game where you have to fly a rocket ship from point A to point B to win
 
 ![My Image](level4.PNG)
 
-#References
+# References
 I created this game from one of my courses on GameDev.tv with professor Rick Davidson.
